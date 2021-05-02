@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/warshaa/esp32/edit/main/fota/firmware.bin"
+    "bin": "/warshaa/esp32/master/fota/firmware.bin"
 }
